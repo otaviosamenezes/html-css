@@ -33,6 +33,10 @@ header > h1 {
 }
 header > p {
     padding-bottom: 50px;
+    font-family: var(--font-poema);
+}
+span {
+    font-size: 18px;
 }
 a {
 color: white;
