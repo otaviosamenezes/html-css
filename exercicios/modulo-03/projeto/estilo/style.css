@@ -43,7 +43,7 @@ section {
     color: white;
 }
 section.imagem > p {
-    background-color: rgba(0, 0, 0, 0.23);
+    background-color: rgba(0, 0, 0, 0.184);
     width: 400px;
 }
 footer{
